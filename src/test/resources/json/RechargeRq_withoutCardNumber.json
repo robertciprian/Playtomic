@@ -1,0 +1,7 @@
+{
+  "firstName" : "client first name",
+  "lastName" : "client last name",
+  "amount" : 300,
+  "cvc": "402",
+  "validUntil" : "2025-01-25"
+}

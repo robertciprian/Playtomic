@@ -1,0 +1,5 @@
+
+
+services:
+  stripe-service:
+    url: http://stripe-service:8080

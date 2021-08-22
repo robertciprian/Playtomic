@@ -1,6 +1,6 @@
 package com.playtomic.tests.wallet.service.impl;
 
-import com.playtomic.tests.wallet.service.PaymentServiceException;
+import com.playtomic.tests.wallet.exception.PaymentServiceException;
 import com.playtomic.tests.wallet.service.PaymentService;
 
 import org.springframework.stereotype.Service;

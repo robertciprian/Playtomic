@@ -1,8 +1,9 @@
-package com.playtomic.tests.wallet.service.impl;
+package com.playtomic.tests.wallet.test;
 
 
-import com.playtomic.tests.wallet.service.PaymentServiceException;
 
+import com.playtomic.tests.wallet.exception.PaymentServiceException;
+import com.playtomic.tests.wallet.service.impl.ThirdPartyPaymentService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
